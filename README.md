@@ -13,4 +13,8 @@ Then you are again presented with current and future conditions for that city
 
 
 
-![weatherwebsite](https://user-images.githubusercontent.com/99852993/167325014-08a540e5-a1c8-4d75-8a5a-316cf3c8a339.gif)
+
+
+https://user-images.githubusercontent.com/99852993/167325107-fb02e4a4-8215-4998-8f6e-cdb8afa754cc.MOV
+
+
