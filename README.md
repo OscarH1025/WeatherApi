@@ -13,5 +13,4 @@ Then you are again presented with current and future conditions for that city
 
 
 
-
-![Weather](https://user-images.githubusercontent.com/99852993/167324889-0d4a2cfc-cb98-41ad-a0ca-2c7bcbaefd36.gif)
+![weatherwebsite](https://user-images.githubusercontent.com/99852993/167325014-08a540e5-a1c8-4d75-8a5a-316cf3c8a339.gif)
