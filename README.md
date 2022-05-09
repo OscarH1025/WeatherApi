@@ -15,6 +15,7 @@ Then you are again presented with current and future conditions for that city
 
 
 
-https://user-images.githubusercontent.com/99852993/167325107-fb02e4a4-8215-4998-8f6e-cdb8afa754cc.MOV
 
 
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/99852993/167325288-ac2b4b92-9a8d-4adf-baa0-a261ce55f931.gif)
