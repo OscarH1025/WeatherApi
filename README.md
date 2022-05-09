@@ -1,6 +1,6 @@
 # WeatherApi
-GIVEN a weather dashboard with form inputs
-WHEN you search for a city
+This is Weather website using a weather api
+When you search for a city
 You are presented with current and future conditions for that city and that city is added to the search history
 You view current weather conditions for that city
 THEN you are presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
